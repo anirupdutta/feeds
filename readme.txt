@@ -9,5 +9,3 @@ it should be something like this : JKJKShsjhsjhuhhwhHSJHUSShsduOKXJjhkefefbciHnj
 
 If upgrading from existing version, just delete mod/feeds/ directory and unzip
 this into your mods/ dir.
-
-This plugin can now delete your unwanted feeds, and include the v1.5 look and feel. 
